@@ -8,6 +8,13 @@ function App() {
   return (
     <>
       <Footer/>
+import LandingPage from './LandingPage'
+
+function App() {
+
+  return (
+    <>
+<LandingPage/>
     </>
   )
 }
